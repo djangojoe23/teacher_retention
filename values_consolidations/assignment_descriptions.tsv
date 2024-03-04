@@ -1,0 +1,403 @@
+value	change to
+Elementary, Primary Grades 1-3	elementary
+Elementary, Intermediate Grades 4-6	elementary
+Special Ed, Resource PreK-12	learning_support
+Elementary, Primary Grades 1-3 1/	elementary
+Elementary, Intermediate Grades 4-6 1/	elementary
+Special Ed, Elementary Subjects, PreK-6	learning_support
+Kindergarten, age 5 (K5)	kindergarten
+Mathematics, 10-12	math
+English/Communication, 10-12	english
+Other Not Listed Above (certificated personnel)	other
+Middle Level English, 7-9	english
+Middle Level Mathematics, 7-9	math
+Music, Elementary, PreK-6	music
+Health and Physical Education, Elementary, PreK-6	health
+Social Studies, 10-12	history
+Health and Physical Education, Secondary, 7-12	health
+Middle Level Social Studies, 7-9	history
+Middle Level Science, 7-9	science
+Secondary School Counselor	counselor
+Music, Secondary, 7-12	music
+School Nurse	nurse
+Speech Correction, Elementary, PreK-6	speech
+Art, Elementary (PreK-6)	art
+Biology	science
+Spanish, 7-12	foreign_language
+Other Not Listed Above (non-certificated personnel)	other
+Elementary School Counselor	counselor
+School Psychologist	counselor
+Art, Secondary (7-12)	art
+Diagnostic/Prescriptive Reading, Elementary, PreK-6	english
+Elementary Principal	principal
+Library Sciences, Elementary, PreK-6	librarian
+Chemistry	science
+Special Ed, Middle Level English, 7-9	learning_support
+Gifted Classes, Elementary. PreK-6	gifted
+Business Education, Secondary	business
+Assistant or Vice Secondary Principal	principal
+Special Ed, Secondary English, 10-12	learning_support
+Developmental Reading, Elementary Classes, PreK-6	elementary
+Family/Consumer Sciences, Secondary, 7-12	home_ec
+Special Ed, Middle Level Math, 7-9	learning_support
+English as Second Language, Elementary, PreK-6	esl
+Physics, 10-12	science
+Secondary Principal	principal
+Supervisor, Special Education	supervisor
+History, 10-12	history
+Speech Correction, Secondary, 7-12	speech
+Gifted Classes, Tutorial/Resource, Secondary, 7-12	gifted
+Instructional Support Teachers	learning_support
+Technology Education, Secondary, 7-12	technology
+Library Sciences, Secondary, 7-12	librarian
+Special Ed, Secondary Math, 10-12	learning_support
+English as Second Language, K-12 Resource (Take student out for language support)	esl
+Industrial Arts/Technology Education	technology
+French, 6-12	foreign_language
+Computer Science, Elementary, PreK-6	technology
+Developmental Reading, Secondary Classes, 7-12	learning_support
+Physical Education	health
+Computer Science, Secondary, 7-12	technology
+General Science, Intermediate, 10-12	science
+Assistant or Vice Elementary Principal	principal
+Pre Kindergarten (PreK)	pre_k
+Business Manager	manager
+School Social Worker	counselor
+Special Ed, Secondary Social Studies, 10-12	learning_support
+Speech	speech
+Middle School Principal	principal
+Superintendent	superintendent
+Occupational Therapist	counselor
+Special Ed, Secondary Science, 10-12	learning_support
+Diagnostic/Prescriptive Reading, Secondary, 7-12	learning_support
+English as Second Language, K-12 Resource, (Take student out for language support)	esl
+Title I/Remedial Math, Elementary, PreK-6	learning_support
+German, 7-12	math
+Special Ed, Middle Level Science, 7-9	learning_support
+Special Ed, Middle Level Social Studies, 7-9	learning_support
+Home and School Visitor	counselor
+Assistant or Vice Middle School Principal	principal
+Supervisor, Curriculum and Instruction	supervisor
+Literacy, Staff Coach	staff_coach
+Health	health
+Spanish, Elementary, PreK-6	foreign_language
+Psychology, Social or Behavioral Science	social_science
+Government, 10-12	history
+Earth and Space Science, Intermediate	science
+Instructional Technology Specialist	tech_specialist
+Computer Technology Specialist	tech_specialist
+Environmental Education	science
+Computer Technology	technology
+Director of Athletics	supervisor
+Technology Education, Elementary, PreK-6	technology
+School Safety and Security Coordinator	security
+Home Economics	home_ec
+Hearing Impaired Resource, PreK-12	learning_support
+Assistant Superintendent	superintendent
+Accounting/Bookkeeping	manager
+Economics	history
+Director of Management Information Systems	supervisor
+Physical Science, Intermediate, 10-12	science
+Visually Impaired Resource, PreK-12	learning_support
+English as Second Language, Secondary English, 10-12	esl
+Office Technologies	vocational
+Agriculture	vocational
+Driver Education	vocational
+Food Service Manager	food_service
+Mathematics, Staff Coach	staff_coach
+Chief Administrative Officer (charter schools only)	superintendent
+Director of Personnel	supervisor
+Physical Therapist	counselor
+Earth and Space Science, Advanced	science
+Latin, 7-12	foreign_language
+English as Second Language, Middle Level English, 7-9	esl
+Sociology, 10-12	social_science
+Supervisor, Pupil Personnel Services	supervisor
+Cooperative Education	learning_support
+Kindergarten, age 4 (K4)	kindergarten
+Alternate Education, Secondary English, 10-12	learning_support
+Cosmetology	vocational
+Drama	drama
+Family/Consumer Sciences, Elementary, PreK-6	home_ec
+Alternate Education, Secondary Social Studies, 10-12	learning_support
+Social Science	social_science
+Industrial Arts, Wood Unit Shop	shop_class
+Other Business Subjects	business
+Quantity Foods	vocational
+Education Program Specialist	supervisor
+Journalism	english
+Alternative Education, K-12 Resource Room	learning_support
+Special Ed, Life Skills, Autistic and Multiple-Disability Support	learning_support
+Alternate Education, Secondary Math, 10-12	learning_support
+Health Assistant	vocational
+Business Education, Elementary	business
+School Program Specialist	supervisor
+Alternate Education, Secondary Science, 10-12	learning_support
+Science, Interdisciplinary Advanced, 10-12	science
+Other, Staff Coach (Not Math, Literacy, Science, or Special Education)	staff_coach
+Special Ed, Staff Coach	staff_coach
+General Science, Advanced, 10-12	science
+Welding	vocational
+Audio-visual Communications Technology	vocational
+Automotive Body and Fender	vocational
+Engineering Related Technology	vocational
+Alternate Education, Middle Level English, 7-9	learning_support
+Carpentry	vocational
+Title I/Remedial Math, Secondary, 7-12	learning_support
+Hearing Impaired Elementary, PreK-6	learning_support
+Marketing/Sales	vocational
+Director, Vocational Education	supervisor
+Alternate Education, Middle Level Math, 7-9	learning_support
+Health Related Technology	vocational
+Vocational Instruction	vocational
+Alternate Education, Middle Level Social Studies, 7-9	learning_support
+Chinese	foreign_language
+Automotive Mechanics	vocational
+Geography, 10-12	history
+Life Science, Intermediate, 10-12	science
+Assistant to the Superintendent in Charge of Instruction	supervisor
+Alternate Education, Middle Level Science, 7-9	learning_support
+Graphic Arts	vocational
+Citizenship	history
+Intermediate Unit Program Specialist	supervisor
+Building Construction Trades	vocational
+Dance	drama
+Commercial Art	vocational
+Dental Hygienist	vocational
+Machine Shop	shop_class
+Industrial Arts, Drawing Unit Shop	shop_class
+Law Enforcement	vocational
+Supervisor, Instructional Technology	supervisor
+Digital Technology	technology
+Coordinator, Specially Funded Programs	supervisor
+Supervisor, Elementary Education	supervisor
+Hearing Impaired, Elementary	learning_support
+Military Science (ROTC)	military
+Industrial Arts, Metal Unit Shop	shop_class
+Protective Service Occupations	vocational
+Horticulture/Floriculture	vocational
+Italian	foreign_language
+Network Systems Technology	vocational
+Drafting	vocational
+Electrical Occupations	vocational
+Industrial Arts, Graphic Arts Unit Shop	shop_class
+Automotive Technology	vocational
+French, Elementary, PreK-6	foreign_language
+Supervisor, Secondary Education	supervisor
+Visually Impaired Elementary, PreK-6	learning_support
+Child Care Services	vocational
+ROTC Instructor	military
+Automotive Technician	vocational
+Alternate Education Program, K-6	learning_support
+Data Processing	vocational
+Industrial Technology	vocational
+Supervisor, Mathematics	supervisor
+Supervisor, Reading	supervisor
+Assistant Vocational Director	supervisor
+Diesel Mechanic	vocational
+Typewriting	vocational
+Visually Impaired, Elementary	learning_support
+Occupational Therapy Assistant	learning_support
+Intermediate Unit Executive Director	supervisor
+Japanese	foreign_language
+Air Conditioning	vocational
+Computer Servicing Technology	vocational
+Cook/Chef	vocational
+Hearing Impaired, Secondary	learning_support
+Allied Health Science Technology	vocational
+Supervisor, Science	supervisor
+Building Trades Maintenance	vocational
+Safety Education	vocational
+English as Second Language, Secondary Math, 10-12	esl
+Physical Science, Advanced, 10-12	science
+Supervisor, School Guidance Services	supervisor
+Small Engine Repair	vocational
+Veterinarian Assistant	vocational
+English as Second Language, Secondary Social Studies, 10-12	esl
+Electronics Technology	vocational
+Plumbing	vocational
+Dental Assistant	vocational
+Visually Impaired, Secondary	learning_support
+Assistant to the Superintendent in Charge of Business Affairs	manager
+Supervisor, Early Childhood	supervisor
+Supervisor, English/Communication	supervisor
+Acting Superintendent	superintendent
+German, Elementary, PreK-6	foreign_language
+English as Second Language, Secondary Science, 10-12	esl
+Philosophy	social_science
+Psychology, Interdisciplinary Science	social_science
+Supervisor, Vocational Education	supervisor
+Graphic Occupations	vocational
+Medical Assistant	vocational
+Intermediate Unit Assistant Executive Director	supervisor
+Masonry	vocational
+Electro-Mechanical Technology	vocational
+Agricultural Mechanics	vocational
+Heating	vocational
+English as Second Language, Middle Level Math, 7-9	esl
+Anthropology	vocational
+Biological Technology	vocational
+Supervisor, Gifted Programs	supervisor
+Air Conditioning/Refrigeration	vocational
+Electrical, Construction/Maintenance	vocational
+Industrial Arts, Electricity Unit Shop	shop_class
+Supervisor, Social Studies	supervisor
+Architectural-Design Technology	vocational
+Practical Nursing	vocational
+Science, Staff Coach	staff_coach
+Secretarial, Shorthand, and Office Practice	vocational
+Psychological Examiner	counselor
+Coordinator, Vocational Education	vocational
+Supervisor, Foreign Languages	supervisor
+Telecommunications Technology	vocational
+Masonry Occupations	vocational
+Physical Therapy Assistant	vocational
+Baker	vocational
+Supervisor, School Health Services	supervisor
+Millwork and Cabinet Making	vocational
+Supervisor, Art, K-12	supervisor
+Warehousing	vocational
+Metalworking Occupations	vocational
+Supervisor, Music, K-12	supervisor
+Restaurant Practice	vocational
+English as Second Language, Middle Level Social Studies, 7-9	esl
+Distributive Education	vocational
+Nurses Aide	vocational
+Drafting-Mechanical	vocational
+Supervisor, School Social Services	supervisor
+Radio/Television	vocational
+Hearing Impaired Middle Level English, 7-9	learning_support
+Electronics	vocational
+Supervisor, Comprehensive Vocational Education	supervisor
+Planetarium, Meteorological Station	vocational
+Supervisor, School Psychological Services	supervisor
+Arabic	foreign_language
+Related Subjects	vocational
+Commercial Photography	vocational
+Heavy Equipment Construction	vocational
+Agricultural Power and Machinery	vocational
+Russian	foreign_language
+Hearing Impaired Secondary English, 10-12	learning_support
+Supervisor, Health and Physical Education, K-12	supervisor
+Latin, Elementary, PreK-6	foreign_language
+English as Second Language, Middle Level Science, 7-9	esl
+Hearing Impaired Middle Level Math, 7-9	learning_support
+Mechanical Design Technology	vocational
+Painting and Decorating	vocational
+Electrical Technology	vocational
+Hearing Impaired Secondary Science, 10-12	learning_support
+Industrial Arts, Printing Unit Shop	shop_class
+Hearing Impaired Secondary Math, 10-12	learning_support
+Coordinator, Marketing/Distributive Education	vocational
+Medical Records Technology	vocational
+Social Restoration	vocational
+Brick Masonry	vocational
+Material Handling	vocational
+Textile Production/Fabrication	vocational
+Hearing Impaired Secondary Social Studies, 10-12	learning_support
+Blue Print Reading	vocational
+Retail Commercial Baking	vocational
+Occupations - Retarded Youth	vocational
+Drafting-Architectural	vocational
+Hotel/Motel Management	vocational
+Hearing Impaired Middle Level Social Studies, 7-9	learning_support
+Electrical Power and Comm. Lineperson	vocational
+Masonry/Bricklaying	vocational
+Electrical, General	vocational
+Consumer Services	vocational
+Security Services	vocational
+Hearing Impaired Middle Level Science, 7-9	learning_support
+Electronics Communications	vocational
+Supervisor, Business Education	supervisor
+Acting Assistant Superintendent	superintendent
+Sewing	vocational
+Supervisor, Health and Physical Education, Secondary	supervisor
+Barbering	vocational
+Coordinator, Practical Nursing	vocational
+Custodial Services	vocational
+Trade and Industrial	vocational
+Automotive Maintenance	vocational
+Director of Recreation	supervisor
+Interior Decorating	vocational
+Industrial Arts, Textiles Unit Shop	shop_class
+Supervisor, Library Science	supervisor
+Metal Fabrication	vocational
+Tool and Die Design Technology	vocational
+Industrial Production and Maintenance	vocational
+Supervisor, Industrial Arts	supervisor
+Mechanical Drawing (Vocational)	vocational
+Substitute Superintendent	superintendent
+Arboretum, Aviary, Greenhouse	vocational
+Supervisor, Environmental Education	supervisor
+Industrial Arts, Automotives Unit Shop	shop_class
+Ornamental Horticulture	vocational
+School Security Personnel	security
+Lumbering	vocational
+Civil Technology	vocational
+Environmental Control Technology	vocational
+Printing	vocational
+Electrical, Industrial	vocational
+Petroleum Production	vocational
+Electronic Product Servicing	vocational
+Portuguese	foreign_language
+Supervisor, Home Economics	supervisor
+Industrial Arts, Plastics Unit Shop	shop_class
+Ceramics, Vocational	vocational
+Visually Impaired Secondary Math, 10-12	learning_support
+Visually Impaired Secondary Social Studies, 10-12	learning_support
+Sheet Metal	vocational
+Aeronautical Technology	vocational
+Hebrew	foreign_language
+Visually Impaired Secondary English, 10-12	learning_support
+Supervisor, Cooperative Education	supervisor
+Meat Cutting	vocational
+Supervisor, Distributive Education	supervisor
+Supervisor, Trade-Industrial Education	supervisor
+Visually Impaired Middle Level English, 7-9	learning_support
+Electronic Composition	vocational
+Nuclear Science	vocational
+Chemical Technology	vocational
+Supervisor, Safety Education/Driver Education	supervisor
+Mechanical Technology	vocational
+Passenger Transportation Marketing	vocational
+Auto-Diesel Mechanic	vocational
+Visually Impaired Middle Level Social Studies, 7-9	learning_support
+Vending Machine Repair	vocational
+Supervisor, Music, Elementary	supervisor
+Patternmaking	vocational
+Supervisor, Art, Elementary	supervisor
+Floriculture	vocational
+Visually Impaired Middle Level Math, 7-9	learning_support
+Visually Impaired Middle Level Science, 7-9	learning_support
+Appliance Repair	vocational
+Automotive Machinist	vocational
+Supervisor, Physical Education	supervisor
+Slovak	foreign_language
+Surgical (Operating Room) Technician	vocational
+Maintenance Mechanics	vocational
+Dressmaking	vocational
+Power Mechanics Occupations	vocational
+Auto Parts Counterman	vocational
+Coordinator, Audio-visual Materials	vocational
+Environmental Health Assistant	vocational
+Supervisor, Health and Physical Education, Elementary	supervisor
+Research Laboratory Assistant	vocational
+Industrial Arts, Ceramics Unit Shop	shop_class
+Metallurgical Technology	vocational
+Supervisor, Art, Secondary, 7-12	supervisor
+Supervisor, Music, Secondary	supervisor
+Instrumentation Technology	vocational
+Photogrammetry	vocational
+Sanskrit	foreign_language
+Polish	foreign_language
+Lithuanian	foreign_language
+Vietnamese	foreign_language
+Greek	foreign_language
+Rumanian	foreign_language
+Korean	foreign_language
+Ukrainian	foreign_language
+Mine Equipment Maintenance	vocational
+Hospital Food Service	vocational
+Floor Covering Installation	vocational
+Coordinator, Vocational Industrial Education	vocational
+None Provided	none

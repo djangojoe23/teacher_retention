@@ -1,0 +1,13 @@
+value,change to
+PE,professional
+OE,other
+TPE,temporary
+None Provided,none
+SP,substitute
+SC,subcontracted
+Professional Employee,professional
+Other Employee,other
+Temporary Professional Employee,temporary
+Substitute (other than Professional or Temporary Professional),substitute
+Subcontracted Employee,subcontracted
+CP,professor

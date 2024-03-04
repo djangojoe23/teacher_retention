@@ -1,0 +1,36 @@
+Column	Change to
+2 or More Races	district_multiracial
+American Indian/Alaskan Native	district_american_indian_alaskan_native
+Asian	district_asian
+Black/African American	district_black
+Career and Technical Center Name	ignore
+Career and Technical Center Website	ignore
+Charter School Enrollment	district_charter_enrollment
+District Address (City)	district_city
+District Address (State)	district_state
+District Address (Street)	district_address
+District Enrollment	district_enrollment
+District Name	district_name
+District Zip Code	district_zip
+Economically Disadvantaged	district_poor
+English Learner	district_english_learner
+Enrollment in Partnering Career and Technical Center(s)	ignore
+Female	district_female
+Foster Care	district_foster_care
+Geographic Size of District (Square Miles)	district_area
+Grades Offered	district_grades_offered
+Hispanic	district_hispanic
+Homeless	district_homeless
+Intermediate Unit Name	ignore
+Intermediate Unit Website	ignore
+Male	district_male
+Military Connected	ignore
+Native Hawaiian or other Pacific Islander	district_hawaiian_pacific_islander
+Number of Advanced Placement Courses Offered	district_ap_course_count
+Number of Career and Technical Programs Offered by District	career_tech_programs_count
+Number of Schools	district_school_count
+Percent of Gifted Students	district_gifted
+Special Education	district_sped
+Telephone Number	ignore
+Website	ignore
+White	district_white

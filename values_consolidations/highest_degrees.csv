@@ -1,0 +1,19 @@
+value,change to
+"Bachelor's (Baccalaureate) degree",bachelors
+"Master's degree",masters
+"Doctoral degree",doctoral
+"Vocational certificate (no college)",vocational
+"Specialist's degree (Ed.S)",specialist
+"Some college but no degree",some_college
+"High school diploma",diploma
+"Associate's degree (two years or more)",associates
+"Less than high school graduate",no_diploma
+"High school equivalency (GED)",GED
+"Bachelor's (Baccalaureate) degree (e.g., B.A., A.B., B.S.)",bachelors
+"Master's degree (e.g., M.A., M.S., M. Eng., M.Ed., M.S.W., M.B.A., M.L.S.)",masters
+"Doctoral (Doctor's) degree (e.g., Ph.D., Ed.D.)",doctoral
+"High school equivalency (e.g., GED)",GED
+"Vocational certificate",vocational
+"Specialist's degree (e.g., Ed.S.)",specialist
+"Less than HS graduate",no_diploma
+"Specialist's degree (Ed.S.)",specialist

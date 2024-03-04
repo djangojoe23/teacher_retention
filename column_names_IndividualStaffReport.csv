@@ -1,0 +1,55 @@
+Column,Change to
+SY,ignore
+Staff Snapshot Date,ignore
+PublicID,public_id
+Last Name,last_name
+First Name,first_name
+MiddleName,middlename
+Suffix,ignore
+Gender,gender
+AnnualSalary,annual_salary
+DegreeCode,ignore
+DegreeDescription,highest_degree
+YearsInEd,years_in_education
+YearsInLEA,years_in_district
+AUN,district_id
+LEAName,district_name
+LEATypeDescription,district_type
+LEACountyCd,district_county_code
+LEACounty,ignore
+SchNum,school_id
+School,school_name
+IU,ignore
+SchoolCountyCode,ignore
+SchoolCounty,ignore
+FT/PT,ft_pt
+JobClass,job_class
+AssignCd,ignore
+Assignment Description,assignment_description
+PositionCd,ignore
+PositionDescription,position_description
+EDFCd,ignore
+EDFactsDescription,ignore
+CategoryDescription,category_description
+FTE%,fte_percentage
+Active/Leave/Other,status
+Pos. 2012-,ignore
+Status,status
+Primary Assignment,ignore
+Pos. 2017-,ignore
+Position Description 2017-,position_description
+EDF.,ignore
+EDF Category,ignore
+Category Description 2017-,category_description
+IUName,ignore
+Pos 2017-,ignore
+EDF,ignore
+Middle Name,middlename
+YearsInED,years_in_education
+EDFNum,ignore
+PrimaryAssignment,ignore
+AssignmentDesc,assignment_description
+PosNum,ignore
+PositionDesc,position_description
+EDFCategory,ignore
+CategoryDesc,category_description

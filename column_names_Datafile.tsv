@@ -1,0 +1,524 @@
+Column	Change to
+2 or More Races	school_multiracial
+American Indian/Alaskan Native	school_american_indian_native_alaskan
+Annual Progess Percent Industry-Based Learning (Economically Disadvantaged)	ignore
+Annual Progress Growth Science/Biology (2 or More Races)	ignore
+Annual Progress Growth Science/Biology (All Student)	ignore
+Annual Progress Growth Science/Biology (American Indian/Alaska Native)	ignore
+Annual Progress Growth Science/Biology (Asian)	ignore
+Annual Progress Growth Science/Biology (Black)	ignore
+Annual Progress Growth Science/Biology (Economically Disadvantaged)	ignore
+Annual Progress Growth Science/Biology (English Learner)	ignore
+Annual Progress Growth Science/Biology (Hawaiian/Pacific Islander)	ignore
+Annual Progress Growth Science/Biology (Hispanic)	ignore
+Annual Progress Growth Science/Biology (Students with Disabilities)	ignore
+Annual Progress Growth Science/Biology (White)	ignore
+Annual Progress Meeting Annual Academic Growth Expectations (PVAAS) Science/Biology (Combined Ethnicity)	ignore
+Annual Progress Percent Industry-Based Learning (2 or More Races)	ignore
+Annual Progress Percent Industry-Based Learning (2 or MoreRaces)	ignore
+Annual Progress Percent Industry-Based Learning (All Student)	ignore
+Annual Progress Percent Industry-Based Learning (American Indian Alaska Native)	ignore
+Annual Progress Percent Industry-Based Learning (American Indian/Alaska Native)	ignore
+Annual Progress Percent Industry-Based Learning (Asian)	ignore
+Annual Progress Percent Industry-Based Learning (Black)	ignore
+Annual Progress Percent Industry-Based Learning (Economically Disadvantaged)	ignore
+Annual Progress Percent Industry-Based Learning (English Learner)	ignore
+Annual Progress Percent Industry-Based Learning (Hawaiian Pacific Islander)	ignore
+Annual Progress Percent Industry-Based Learning (Hawaiian/Pacific Islander)	ignore
+Annual Progress Percent Industry-Based Learning (Hispanic)	ignore
+Annual Progress Percent Industry-Based Learning (Students with Disabilities)	ignore
+Annual Progress Percent Industry-Based Learning (White)	ignore
+Annual Progress Percent Proficient or Advanced on Science/Biology (All Student)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (2 or More Races)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (All Student)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (American Indian/Alaska Native)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Asian)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Black)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Economically Disadvantaged)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (English Learner)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Hawaiian/Pacific Islander)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Hispanic)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (Students with Disabilities)	ignore
+Annual Progress Percent Proficient or Advanced Science/Biology (White)	ignore
+Asian	school_asian
+Black/African American	school_black
+Career and Technical Programs	ignore
+Economically Disadvantaged	school_poor
+English Language Growth and Attainment (All Student)	english_growth_and_attainment_all
+English Learner	school_english_learner
+ESSA Goal Annual Progress Growth (PVAAS) ELA/Literature (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Growth (PVAAS) Mathematics/Algebra 1 (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (2 or More Races)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (All Student)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Asian)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Black)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (English Learner)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Hispanic)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Growth ELA/Literature (White)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (2 or More Races)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (All Student)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Asian)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Black)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (English Learner)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Hispanic)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Growth Mathematics/Algebra 1 (White)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (All Student)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Asian)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Black)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (English Learner)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Hispanic)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent Career Standards Benchmark (White)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (All Student)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Asian)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Black)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (English Learner)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Hispanic)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent English Language Growth and Attainment (White)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (All Student)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Asian)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Black)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (English Learner)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Hispanic)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent English Language Proficiency (White)	ignore
+ESSA Goal Annual Progress Percent Grade 5, Grade 8, and/or Grade 11 Career Standards Benchmark (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (All Students)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Asian)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Black)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (English Learner)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Hispanic)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent Graduation 4 -Year Cohort (White)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (All Student)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Asian)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Black)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (English Learner)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Hispanic)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced ELA/Literature (White)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (All Student)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Asian)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Black)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (English Learner)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Hispanic)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced Mathematics/Algebra 1 (White)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced on ELA/Literature (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent Proficient or Advanced on Mathematics/Algebra 1 (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (2 or More Races)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (All Student)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (American Indian/Alaska Native)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Asian)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Black)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Combined Ethnicity)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Economically Disadvantaged)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Hawaiian/Pacific Islander)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Hispanic)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (Students with Disabilities)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance (White)	ignore
+ESSA Goal Annual Progress Percent Regular Attendance(English Learner)	ignore
+ESSA Goal Percent Career Standards Benchmark (All Student)	essa_goal_career_benchmark_all
+ESSA Goal Percent English Language Proficiency (All Student)	essa_goal_english_proficiency_all
+ESSA Goal Percent Graduation 4 -Year Cohort (All Students)	essa_goal_graduation_four_year_all
+ESSA Goal Percent Regular Attendance (All Student)	essa_goal_regular_attendance_all
+Female (School)	school_female
+Foster Care	school_foster_care
+Goal Annual Progress Percent Proficient or Advanced on Science/Biology (Combined Ethnicity)	ignore
+Grades Offered	school_grades_offered
+Hispanic	school_hispanic
+Homeless	school_homeless
+Intermediate Unit Name	ignore
+Intermediate Unit Website	ignore
+Male (School)	school_male
+Meeting Annual Academic Growth Expectations (PVAAS) ELA/Literature (Combined Ethnicity)	english_growth_combined_ethnicity
+Meeting Annual Academic Growth Expectations (PVAAS) Mathematics/Algebra 1 (Combined Ethnicity)	math_growth_combined_ethnicity
+Meeting Annual Academic Growth Expectations (PVAAS) Science/Biology (Combined Ethnicity)	science_growth_combined_ethnicity
+Meeting Annual Academic Growth Expectations ELA/Literature (2 or More Races)	english_growth_multiracial
+Meeting Annual Academic Growth Expectations ELA/Literature (All Student)	english_growth_all
+Meeting Annual Academic Growth Expectations ELA/Literature (American Indian/Alaska Native)	english_growth_american_indian_native_alaskan
+Meeting Annual Academic Growth Expectations ELA/Literature (Asian)	english_growth_asian
+Meeting Annual Academic Growth Expectations ELA/Literature (Black)	english_growth_black
+Meeting Annual Academic Growth Expectations ELA/Literature (Economically Disadvantaged)	english_growth_poor
+Meeting Annual Academic Growth Expectations ELA/Literature (English Learner)	english_growth_english_learner
+Meeting Annual Academic Growth Expectations ELA/Literature (Hawaiian/Pacific Islander)	english_growth_hawaiian_pacific_islander
+Meeting Annual Academic Growth Expectations ELA/Literature (Hispanic)	english_growth_hispanic
+Meeting Annual Academic Growth Expectations ELA/Literature (Students with Disabilities)	english_growth_sped
+Meeting Annual Academic Growth Expectations ELA/Literature (White)	english_growth_white
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (2 or More Races)	math_growth_multiracial
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (All Student)	math_growth_all
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (American Indian/Alaska Native)	math_growth_american_indian_alaskan_native
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Asian)	math_growth_asian
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Black)	math_growth_black
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Economically Disadvantaged)	math_growth_poor
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (English Learner)	math_growth_english_learner
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Hawaiian/Pacific Islander)	math_growth_hawaiian_pacific_islander
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Hispanic)	math_growth_hispanic
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (Students with Disabilities)	math_growth_sped
+Meeting Annual Academic Growth Expectations Mathematics/Algebra 1 (White)	math_growth_white
+Meeting Annual Academic Growth Expectations Science/Biology (2 or More Races)	science_growth_multiracial
+Meeting Annual Academic Growth Expectations Science/Biology (All Student)	science_growth_all
+Meeting Annual Academic Growth Expectations Science/Biology (American Indian/Alaska Native)	science_growth_american_india_alaskan_native
+Meeting Annual Academic Growth Expectations Science/Biology (Black)	science_growth_black
+Meeting Annual Academic Growth Expectations Science/Biology (Economically Disadvantaged)	science_growth_poor
+Meeting Annual Academic Growth Expectations Science/Biology (English Learner)	science_growth_english_learner
+Meeting Annual Academic Growth Expectations Science/Biology (Hawaiian/Pacific Islander)	science_growth_hawaiian_pacific_islander
+Meeting Annual Academic Growth Expectations Science/Biology (Hispanic)	science_growth_hispanic
+Meeting Annual Academic Growth Expectations Science/Biology (Students with Disabilities)	science_growth_sped
+Meeting Annual Academic Growth Expectations Science/Biology (White)	science_growth_white
+Meeting Annual Academic Growth Expectations Science/Biology1 (Asian)	science_growth_asian
+Military Connected	ignore
+Name (District 1)	ignore
+Name (District 2)	ignore
+Native Hawaiian or other Pacific Islander	school_hawaiian_pacific_islander
+Number (District 1)	ignore
+Number (District 2)	ignore
+Number of Advanced Placement (AP)/ International Baccalaureate (IB) , and Dual Enrollment Unique Courses	school_advanced_courses_count
+Number of Students Enrolled in a Concentrated POS Provided by CTC	ignore
+Number of Students Enrolled in a Concentrated POS provided in LEA	ignore
+Percent (District 1)	ignore
+Percent (District 2)	ignore
+Percent Advanced ELA/Literature (2 or More Races)	english_advanced_multiracial
+Percent Advanced ELA/Literature (All Student)	english_advanced_all
+Percent Advanced ELA/Literature (American Indian/Alaska Native)	english_advanced_american_indian_alaskan_native
+Percent Advanced ELA/Literature (Asian)	english_advanced_asian
+Percent Advanced ELA/Literature (Black)	english_advanced_black
+Percent Advanced ELA/Literature (Combined Ethnicity)	english_advanced_combined_ethnicity
+Percent Advanced ELA/Literature (Ecomically Disadvantaged)	english_advanced_poor
+Percent Advanced ELA/Literature (English Learner)	english_advanced_english_learner
+Percent Advanced ELA/Literature (Hawaiian/Pacific Islander)	english_advanced_hawaiian_pacific_islander
+Percent Advanced ELA/Literature (Hispanic)	english_advanced_hispanic
+Percent Advanced ELA/Literature (Students with Disabilities)	english_advanced_sped
+Percent Advanced ELA/Literature (White)	english_advanced_white
+Percent Advanced Industry Standards-Based Competency Assessments (2 or More Races)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (American Indian/Alaska Native)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (Asian)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (Black)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (Ecomically Disadvantaged)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (English Learner)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (Hawaiian/Pacific Islander)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (Hispanic)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments (White)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments(All Student Group)	ignore
+Percent Advanced Industry Standards-Based Competency Assessments(Students with Disabilities)	ignore
+Percent Advanced Industry-Based Competency Assessments (2 or More Races)	ignore
+Percent Advanced Industry-Based Competency Assessments (All Student Group)	ignore
+Percent Advanced Industry-Based Competency Assessments (American Indian/Alaska Native)	ignore
+Percent Advanced Industry-Based Competency Assessments (Asian)	ignore
+Percent Advanced Industry-Based Competency Assessments (Black)	ignore
+Percent Advanced Industry-Based Competency Assessments (Ecomically Disadvantaged)	ignore
+Percent Advanced Industry-Based Competency Assessments (English Learner)	ignore
+Percent Advanced Industry-Based Competency Assessments (Hawaiian/Pacific Islander)	ignore
+Percent Advanced Industry-Based Competency Assessments (Hispanic)	ignore
+Percent Advanced Industry-Based Competency Assessments (Students with Disabilities)	ignore
+Percent Advanced Industry-Based Competency Assessments (White)	ignore
+Percent Advanced Mathematics/Algebra 1 (2 or More Races)	math_advanced_multiracial
+Percent Advanced Mathematics/Algebra 1 (All Student)	math_advanced_all
+Percent Advanced Mathematics/Algebra 1 (American Indian/Alaska Native)	math_advanced_american_indian_alaskan_native
+Percent Advanced Mathematics/Algebra 1 (Asian)	math_advanced_asian
+Percent Advanced Mathematics/Algebra 1 (Black)	math_advanced_black
+Percent Advanced Mathematics/Algebra 1 (Ecomically Disadvantaged)	math_advanced_poor
+Percent Advanced Mathematics/Algebra 1 (English Learner)	math_advanced_english_learner
+Percent Advanced Mathematics/Algebra 1 (Hawaiian/Pacific Islander)	math_advanced_hawaiian_pacific_islander
+Percent Advanced Mathematics/Algebra 1 (Hispanic)	math_advanced_hispanic
+Percent Advanced Mathematics/Algebra 1 (Students with Disabilities)	math_advanced_sped
+Percent Advanced Mathematics/Algebra 1 (White)	math_advanced_white
+Percent Advanced on Mathematics/Algebra 1 (Combined Ethnicity)	math_advanced_combined_ethnicity
+Percent Advanced on Science/Biology (Combined Ethnicity)	science_advanced_combined_ethnicity
+Percent Advanced Science/Biology (2 or More Races)	science_advanced_multiracial
+Percent Advanced Science/Biology (All Student)	science_advanced_all
+Percent Advanced Science/Biology (American Indian/Alaska Native)	science_advanced_american_indian_alaskan_native
+Percent Advanced Science/Biology (Asian)	science_advanced_asian
+Percent Advanced Science/Biology (Black)	science_advanced_black
+Percent Advanced Science/Biology (Ecomically Disadvantaged)	science_advanced_poor
+Percent Advanced Science/Biology (English Learner)	science_advanced_english_learner
+Percent Advanced Science/Biology (Hawaiian/Pacific Islander)	science_advanced_hawaiian_pacific_islander
+Percent Advanced Science/Biology (Hispanic)	science_advanced_hispanic
+Percent Advanced Science/Biology (Students with Disabilities)	science_advanced_sped
+Percent Advanced Science/Biology (White)	science_advanced_white
+Percent AP/IB Participation	ap_ib_participation
+Percent Career Standards Benchmark (2 or More Races)	ignore
+Percent Career Standards Benchmark (All Student)	ignore
+Percent Career Standards Benchmark (American Indian/Alaska Native)	ignore
+Percent Career Standards Benchmark (Asian)	ignore
+Percent Career Standards Benchmark (Black)	ignore
+Percent Career Standards Benchmark (Economically Disadvantaged)	ignore
+Percent Career Standards Benchmark (English Learner)	ignore
+Percent Career Standards Benchmark (Hawaiian/Pacific Islander)	ignore
+Percent Career Standards Benchmark (Hispanic)	ignore
+Percent Career Standards Benchmark (Students with Disabilities)	ignore
+Percent Career Standards Benchmark (White)	ignore
+Percent College Course Enrollment	college_course_enrollment
+Percent CTE Program of Study Concentration	ignore
+Percent ELA/Literature Test Participation (2 or More Races)	english_test_participation_multiracial
+Percent ELA/Literature Test Participation (All Student Group)	english_test_participation_all
+Percent ELA/Literature Test Participation (American Indian/Alaska Native)	english_test_participation_american_indian_alaskan_native
+Percent ELA/Literature Test Participation (Asian)	english_test_participation_asian
+Percent ELA/Literature Test Participation (Black)	english_test_participation_black
+Percent ELA/Literature Test Participation (Combined Ethnicity)	english_test_participation_combined_ethnicity
+Percent ELA/Literature Test Participation (Economically Disadvantaged)	english_test_participation_poor
+Percent ELA/Literature Test Participation (English Learner)	english_test_participation_english_learner
+Percent ELA/Literature Test Participation (Hawaiian/Pacific Islander)	english_test_participation_hawaiian_pacific_islander
+Percent ELA/Literature Test Participation (Hispanic)	english_test_participation_hispanic
+Percent ELA/Literature Test Participation (Students with Disabilities)	english_test_participation_sped
+Percent ELA/Literature Test Participation (White)	english_test_participation_white
+Percent English Language Growth and Attainment (2 or More Races)	ignore
+Percent English Language Growth and Attainment (All Student)	ignore
+Percent English Language Growth and Attainment (American Indian/Alaska Native)	ignore
+Percent English Language Growth and Attainment (Asian)	ignore
+Percent English Language Growth and Attainment (Black)	ignore
+Percent English Language Growth and Attainment (Economically Disadvantaged)	ignore
+Percent English Language Growth and Attainment (English Learner)	ignore
+Percent English Language Growth and Attainment (Hawaiian/Pacific Islander)	ignore
+Percent English Language Growth and Attainment (Hispanic)	ignore
+Percent English Language Growth and Attainment (Students with Disabilities)	ignore
+Percent English Language Growth and Attainment (White)	ignore
+Percent English Language Proficiency (2 or More Races)	english_proficiency_multiracial
+Percent English Language Proficiency (American Indian/Alaska Native)	english_proficiency_american_indian_alaskan_native
+Percent English Language Proficiency (Asian)	english_proficiency_asian
+Percent English Language Proficiency (Black)	english_proficiency_black
+Percent English Language Proficiency (Combined Ethnicity)	english_proficiency_combined_ethnicity
+Percent English Language Proficiency (Economically Disadvantaged)	english_proficiency_poor
+Percent English Language Proficiency (English Learner)	english_proficiency_english_learner
+Percent English Language Proficiency (Hawaiian/Pacific Islander)	english_proficiency_hawaiian_pacific_islander
+Percent English Language Proficiency (Hispanic)	english_proficiency_hispanic
+Percent English Language Proficiency (Students with Disabilities)	english_proficiency_sped
+Percent English Language Proficiency (White)	english_proficiency_white
+Percent Grade 3 Reading (2 or More Races)	third_grade_reading_multiracial
+Percent Grade 3 Reading (All Student)	third_grade_reading_all
+Percent Grade 3 Reading (American Indian/Alaska Native)	third_grade_reading_american_indian_alaskan_native
+Percent Grade 3 Reading (Asian)	third_grade_reading_asian
+Percent Grade 3 Reading (Black)	third_grade_reading_black
+Percent Grade 3 Reading (Economically Disadvantaged)	third_grade_reading_poor
+Percent Grade 3 Reading (English Learner)	third_grade_reading_english_learner
+Percent Grade 3 Reading (Hawaiian/Pacific Islander)	third_grade_reading_hawaiian_pacific_islander
+Percent Grade 3 Reading (Hispanic)	third_grade_reading_hispanic
+Percent Grade 3 Reading (Students with Disabilities)	third_grade_reading_sped
+Percent Grade 3 Reading (White)	third_grade_reading_white
+Percent Grade 5, Grade 8, and/or Grade 11 Career Standards Benchmark (Combined Ethnicity)	ignore
+Percent Grade 7 Mathematics (2 or More Races)	seventh_grade_math_multiracial
+Percent Grade 7 Mathematics (All Student)	seventh_grade_math_all
+Percent Grade 7 Mathematics (American Indian/Alaska Native)	seventh_grade_math_american_indian_alaskan_native
+Percent Grade 7 Mathematics (Asian)	seventh_grade_math_asian
+Percent Grade 7 Mathematics (Black)	seventh_grade_math_black
+Percent Grade 7 Mathematics (Economically Disadvantaged)	seventh_grade_math_poor
+Percent Grade 7 Mathematics (English Learner)	seventh_grade_math_english_learner
+Percent Grade 7 Mathematics (Hawaiian/Pacific Islander)	seventh_grade_math_hawaiian_pacific_islander
+Percent Grade 7 Mathematics (Hispanic)	seventh_grade_math_hispanic
+Percent Grade 7 Mathematics (Students with Disabilities)	seventh_grade_math_sped
+Percent Grade 7 Mathematics (White)	seventh_grade_math_white
+Percent Graduates Enlisted in the Military (All Students)	military_grads_all
+Percent Graduates Enlisted Military (2 or More Races)	military_grads_multiracial
+Percent Graduates Enlisted Military (American Indian/Alaska Native)	military_grads_american_indian_alaskan_native
+Percent Graduates Enlisted Military (Asian)	military_grads_asian
+Percent Graduates Enlisted Military (Black)	military_grads_black
+Percent Graduates Enlisted Military (Economically Disadvantaged)	military_grads_poor
+Percent Graduates Enlisted Military (English Learner)	military_grads_english_learner
+Percent Graduates Enlisted Military (Hispanic)	military_grads_hispanic
+Percent Graduates Enlisted Military (Students with Disabilities)	military_grads_sped
+Percent Graduates Enlisted Military (White)	military_grads_white
+Percent Graduates Enlisted Military(Hawaiian/Pacific Islander)	military_grads_hawaiian_pacific_islander
+Percent Graduates Entered Pennsylvania Workforce (2 or More Races)	workforce_grads_multiracial
+Percent Graduates Entered Pennsylvania Workforce (All Students)	workforce_grads_all
+Percent Graduates Entered Pennsylvania Workforce (American Indian/Alaska Native)	workforce_grads_american_indian_alaskan_native
+Percent Graduates Entered Pennsylvania Workforce (Asian)	workforce_grads_asian
+Percent Graduates Entered Pennsylvania Workforce (Black)	workforce_grads_black
+Percent Graduates Entered Pennsylvania Workforce (Economically Disadvantaged)	workforce_grads_poor
+Percent Graduates Entered Pennsylvania Workforce (English Learner)	workforce_grads_english_learner
+Percent Graduates Entered Pennsylvania Workforce (Hawaiian/Pacific Islander)	workforce_grads_hawaiian_pacific_islander
+Percent Graduates Entered Pennsylvania Workforce (Hispanic)	workforce_grads_hispanic
+Percent Graduates Entered Pennsylvania Workforce (Students with Disabilities)	workforce_grads_sped
+Percent Graduates Entered Pennsylvania Workforce (White)	workforce_grads_white
+Percent Graduates Post Secondary Education (2 or More Races)	college_grads_multiracial
+Percent Graduates Post Secondary Education (All Students)	college_grads_all
+Percent Graduates Post Secondary Education (American Indian/Alaska Native)	college_grads_american_indian_alaskan_native
+Percent Graduates Post Secondary Education (Asian)	college_grads_asian
+Percent Graduates Post Secondary Education (Black)	college_grads_black
+Percent Graduates Post Secondary Education (Economically Disadvantaged)	college_grads_poor
+Percent Graduates Post Secondary Education (English Learner)	college_grads_english_learner
+Percent Graduates Post Secondary Education (Hawaiian/Pacific Islander)	college_grads_hawaiian_pacific_islander
+Percent Graduates Post Secondary Education (Hispanic)	college_grads_hispanic
+Percent Graduates Post Secondary Education (Students with Disabilities)	college_grads_sped
+Percent Graduates Post Secondary Education (White)	college_grads_white
+Percent Graduates: Post Secondary Transition to School, Military, or Work (All Students)	college_military_workforce_grads_all
+Percent Graduation 4-Year Cohort (2 or More Races)	four_year_grads_mutliracial
+Percent Graduation 4-Year Cohort (All Student)	four_year_grads_all
+Percent Graduation 4-Year Cohort (American Indian/Alaska Native)	four_year_grads_american_indian_alaskan_native
+Percent Graduation 4-Year Cohort (Asian)	four_year_grads_asian
+Percent Graduation 4-Year Cohort (Black)	four_year_grads_black
+Percent Graduation 4-Year Cohort (Combined Ethnicity)	four_year_grads_combined_ethnicity
+Percent Graduation 4-Year Cohort (Economically Disadvantaged)	four_year_grads_poor
+Percent Graduation 4-Year Cohort (English Learner)	four_year_grads_english_learner
+Percent Graduation 4-Year Cohort (Hawaiian/Pacific Islander)	four_year_grads_hawaiian_pacific_islander
+Percent Graduation 4-Year Cohort (Hispanic)	four_year_grads_hispanic
+Percent Graduation 4-Year Cohort (Students with Disabilities)	four_year_grads_sped
+Percent Graduation 4-Year Cohort (White)	four_year_grads_white
+Percent Graduation 5-Year Cohort (2 or More Races)	five_year_grads_mutliracial
+Percent Graduation 5-Year Cohort (All Student)	five_year_grads_all
+Percent Graduation 5-Year Cohort (American Indian/Alaska Native)	five_year_grads_american_indian_alaskan_native
+Percent Graduation 5-Year Cohort (Asian)	five_year_grads_asian
+Percent Graduation 5-Year Cohort (Black)	five_year_grads_black
+Percent Graduation 5-Year Cohort (Combined Ethnicity)	five_year_grads_combined_ethnicity
+Percent Graduation 5-Year Cohort (Economically Disadvantaged)	five_year_grads_poor
+Percent Graduation 5-Year Cohort (English Learner)	five_year_grads_english_learner
+Percent Graduation 5-Year Cohort (Hawaiian/Pacific Islander)	five_year_grads_hawaiian_pacific_islander
+Percent Graduation 5-Year Cohort (Hispanic)	five_year_grads_hispanic
+Percent Graduation 5-Year Cohort (Students with Disabilities)	five_year_grads_sped
+Percent Graduation 5-Year Cohort (White)	five_year_grads_white
+Percent Industry-Based Learning (2 or More Races)	ignore
+Percent Industry-Based Learning (All Student)	ignore
+Percent Industry-Based Learning (American Indian/Alaska Native)	ignore
+Percent Industry-Based Learning (Asian)	ignore
+Percent Industry-Based Learning (Black)	ignore
+Percent Industry-Based Learning (Economically Disadvantaged)	ignore
+Percent Industry-Based Learning (English Learner)	ignore
+Percent Industry-Based Learning (Hawaiian/Pacific Islander)	ignore
+Percent Industry-Based Learning (Hispanic)	ignore
+Percent Industry-Based Learning (Students with Disabilities)	ignore
+Percent Industry-Based Learning (White)	ignore
+Percent Mathematics/Algebra I Test Participation (2 or More Races)	math_test_participation_multiracial
+Percent Mathematics/Algebra I Test Participation (All Student Group)	math_test_participation_all
+Percent Mathematics/Algebra I Test Participation (American Indian/Alaska Native)	math_test_participation_american_indian_alaskan_native
+Percent Mathematics/Algebra I Test Participation (Asian)	math_test_participation_asian
+Percent Mathematics/Algebra I Test Participation (Black)	math_test_participation_black
+Percent Mathematics/Algebra I Test Participation (Combined Ethnicity)	math_test_participation_combined_ethnicity
+Percent Mathematics/Algebra I Test Participation (Economically Disadvantaged)	math_test_participation_poor
+Percent Mathematics/Algebra I Test Participation (English Learner)	math_test_participation_english_learner
+Percent Mathematics/Algebra I Test Participation (Hawaiian/Pacific Islander)	math_test_participation_hawaiian_pacific_islander
+Percent Mathematics/Algebra I Test Participation (Hispanic)	math_test_participation_hispanic
+Percent Mathematics/Algebra I Test Participation (Students with Disabilities)	math_test_participation_sped
+Percent Mathematics/Algebra I Test Participation (White)	math_test_participation_white
+Percent of Completed Work-based Learning Experience	complete_work_based_learning
+Percent of Earned Industry-Recognized Credential	earned_industry_recognized_credential
+Percent of Gifted Students	school_gifted
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (2 or More Races)	college_military_workforce_grads_multiracial
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (American Indian/Alaska Native)	college_military_workforce_grads_american_indian_alaskan_native
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Asian)	college_military_workforce_grads_asian
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Black)	college_military_workforce_grads_black
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Economically Disadvantaged)	college_military_workforce_grads_poor
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (English Learner)	college_military_workforce_grads_english_learner
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Hawaiian/Pacific Islander)	college_military_workforce_grads_hawaiian_pacific_islander
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Hispanic)	college_military_workforce_grads_hispanic
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (Students with Disabilities)	college_military_workforce_grads_sped
+Percent of Graduates: Post Secondary Transition to School, Military, or Work (White)	college_military_workforce_grads_white
+Percent of Scoring Competent or Advanced on NOCTI/NIMS	ignore
+Percent Proficient or Advanced ELA/Literature (2 or More Races)	english_proficient_advanced_multiracial
+Percent Proficient or Advanced ELA/Literature (All Student)	english_proficient_advanced_all
+Percent Proficient or Advanced ELA/Literature (American Indian/Alaska Native)	english_proficient_advanced_american_indian_alaskan_native
+Percent Proficient or Advanced ELA/Literature (Asian)	english_proficient_advanced_asian
+Percent Proficient or Advanced ELA/Literature (Black)	english_proficient_advanced_black
+Percent Proficient or Advanced ELA/Literature (Economically Disadvantaged)	english_proficient_advanced_poor
+Percent Proficient or Advanced ELA/Literature (English Learner)	english_proficient_advanced_english_learner
+Percent Proficient or Advanced ELA/Literature (Hawaiian/Pacific Islander)	english_proficient_advanced_hawaiian_pacific_islander
+Percent Proficient or Advanced ELA/Literature (Hispanic)	english_proficient_advanced_hispanic
+Percent Proficient or Advanced ELA/Literature (Students with Disabilities)	english_proficient_advanced_sped
+Percent Proficient or Advanced ELA/Literature (White)	english_proficient_advanced_white
+Percent Proficient or Advanced Mathematics/Algebra 1 (2 or More Races)	math_proficient_advanced_multiracial
+Percent Proficient or Advanced Mathematics/Algebra 1 (All Student)	math_proficient_advanced_all
+Percent Proficient or Advanced Mathematics/Algebra 1 (American Indian/Alaska Native)	math_proficient_advanced_american_indian_alaskan_native
+Percent Proficient or Advanced Mathematics/Algebra 1 (Asian)	math_proficient_advanced_asian
+Percent Proficient or Advanced Mathematics/Algebra 1 (Black)	math_proficient_advanced_black
+Percent Proficient or Advanced Mathematics/Algebra 1 (Economically Disadvantaged)	math_proficient_advanced_poor
+Percent Proficient or Advanced Mathematics/Algebra 1 (English Learner)	math_proficient_advanced_english_learner
+Percent Proficient or Advanced Mathematics/Algebra 1 (Hawaiian/Pacific Islander)	math_proficient_advanced_hawaiian_pacific_islander
+Percent Proficient or Advanced Mathematics/Algebra 1 (Hispanic)	math_proficient_advanced_hispanic
+Percent Proficient or Advanced Mathematics/Algebra 1 (Students with Disabilities)	math_proficient_advanced_sped
+Percent Proficient or Advanced Mathematics/Algebra 1 (White)	math_proficient_advanced_white
+Percent Proficient or Advanced on ELA/Literature (Combined Ethnicity)	english_proficient_advanced_combined_ethnicity
+Percent Proficient or Advanced on Mathematics/Algebra 1 (Combined Ethnicity)	math_proficient_advanced_combined_ethnicity
+Percent Proficient or Advanced on Science/Biology (Combined Ethnicity)	science_proficient_advanced_combined_ethnicity
+Percent Proficient or Advanced Science/Biology (2 or More Races)	science_proficient_advanced_multiracial
+Percent Proficient or Advanced Science/Biology (All Student)	science_proficient_advanced_all
+Percent Proficient or Advanced Science/Biology (American Indian/Alaska Native)	science_proficient_advanced_american_indian_alaskan_native
+Percent Proficient or Advanced Science/Biology (Asian)	science_proficient_advanced_asian
+Percent Proficient or Advanced Science/Biology (Black)	science_proficient_advanced_black
+Percent Proficient or Advanced Science/Biology (Economically Disadvantaged)	science_proficient_advanced_poor
+Percent Proficient or Advanced Science/Biology (English Learner)	science_proficient_advanced_english_learner
+Percent Proficient or Advanced Science/Biology (Hawaiian/Pacific Islander)	science_proficient_advanced_hawaiian_pacific_islander
+Percent Proficient or Advanced Science/Biology (Hispanic)	science_proficient_advanced_hispanic
+Percent Proficient or Advanced Science/Biology (Students with Disabilities)	science_proficient_advanced_sped
+Percent Proficient or Advanced Science/Biology (White)	science_proficient_advanced_white
+Percent Regular Attendance (2 or More Races)	regular_attendance_multiracial
+Percent Regular Attendance (All Student)	regular_attendance_all
+Percent Regular Attendance (American Indian/Alaska Native)	regular_attendance_american_indian_alaskan_native
+Percent Regular Attendance (Asian)	regular_attendance_asian
+Percent Regular Attendance (Black)	regular_attendance_black
+Percent Regular Attendance (Combined Ethnicity)	regular_attendance_combined_ethnicity
+Percent Regular Attendance (Economically Disadvantaged)	regular_attendance_poor
+Percent Regular Attendance (English Learner)	regular_attendance_english_learner
+Percent Regular Attendance (Hawaiian/Pacific Islander)	regular_attendance_hawaiian_pacific_islander
+Percent Regular Attendance (Hispanic)	regular_attendance_hispanic
+Percent Regular Attendance (Students with Disabilities)	regular_attendance_sped
+Percent Regular Attendance (White)	regular_attendance_white
+Percent Rigorous Courses of Study (2 or More Races)	rigorous_courses_multiracial
+Percent Rigorous Courses of Study (All Student)	rigorous_courses_all
+Percent Rigorous Courses of Study (American Indian/Alaska Native)	rigorous_courses_american_indian_alaskan_native
+Percent Rigorous Courses of Study (Asian)	rigorous_courses_asian
+Percent Rigorous Courses of Study (Black)	rigorous_courses_black
+Percent Rigorous Courses of Study (Economically Disadvantaged)	rigorous_courses_poor
+Percent Rigorous Courses of Study (English Learner)	rigorous_courses_english_learner
+Percent Rigorous Courses of Study (Hawaiian/Pacific Islander)	rigorous_courses_hawaiian_pacific_islander
+Percent Rigorous Courses of Study (Hispanic)	rigorous_courses_hispanic
+Percent Rigorous Courses of Study (Students with Disabilities)	rigorous_courses_sped
+Percent Rigorous Courses of Study (White)	rigorous_courses_white
+Percent Science/Biology Test Participation (All Student Group)	science_test_participation_all
+Percent Science/Biology Test Participation (American Indian/Alaska Native)	science_test_participation_american_indian_alaskan_native
+Percent Science/Biology Test Participation (Asian)	science_test_participation_asian
+Percent Science/Biology Test Participation (Black)	science_test_participation_black
+Percent Science/Biology Test Participation (Combined Ethnicity)	science_test_participation_combined_ethnicity
+Percent Science/Biology Test Participation (Economically Disadvantaged)	science_test_participation_poor
+Percent Science/Biology Test Participation (English Learner)	science_test_participation_english_learner
+Percent Science/Biology Test Participation (Hawaiian/Pacific Islander)	science_test_participation_hawaiian_pacific_islander
+Percent Science/Biology Test Participation (Hispanic)	science_test_participation_hispanic
+Percent Science/Biology Test Participation (Students with Disabilities)	science_test_participation_sped
+Percent Science/Biology Test Participation (White)	science_test_participation_white
+Percent Science/Biology Test Participation(2 or More Races)	science_test_participation_multiracial
+School Address (City)	school_city
+School Address (State)	school_state
+School Address (Street)	school_address
+School Enrollment	school_enrollment
+School Name	school_name
+School Zip Code	school_zip
+Special Education	school_sped
+Statewide 2030 Goal ESSA GOAL Percent Proficient or Advanced on ELA/Literature (All Student)	ignore
+Statewide 2030 Goal ESSA GOAL Percent Proficient or Advanced on Mathematics/Algebra 1 (All Student)	ignore
+Statewide 2030 Goal Percent Proficient or Advanced on Science/Biology (All Student)	ignore
+Telephone Number	ignore
+Title I School	title_i
+Website	ignore
+White	school_white
