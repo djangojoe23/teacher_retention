@@ -35,8 +35,8 @@ feature_list = ['gender_M', 'highest_degree_bachelors', 'highest_degree_masters'
 
 feature_list = ['raise_per_school_years',
                 'english_proficient_advanced_all',
-                'raise_per_district_years',
                 'math_test_participation_all',
+                'district_count'
                 ]
 
 retention_df = retention_df.dropna(subset=feature_list)

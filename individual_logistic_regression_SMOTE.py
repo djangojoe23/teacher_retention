@@ -9,6 +9,11 @@ from imblearn.over_sampling import SMOTE
 if __name__ == '__main__':
     retention_df = pd.read_csv('dataframes/imputed_custom_retention_dataframe.csv')
 
+    feature_list = ['raise_per_school_years',
+                    'english_proficient_advanced_all',
+                    'math_test_participation_all',
+                    ]
+
     print(retention_df[(retention_df['teacher_id'] == -189109114)][['year', 'title_i', 'annual_salary', 'years_at_school']])
 
     # Get rid of o null values in my predictor class
@@ -17,13 +22,10 @@ if __name__ == '__main__':
     # Only look at high school teachers
     staff_filter = (retention_df['category_teacher'] == 1) & \
                    (retention_df['position_secondary'] == 1) & \
-                   (retention_df['assignments_math'] == 1) & \
                    (retention_df['status_active'] == 1)
     retention_df = retention_df[staff_filter]
 
-    features_included = retention_df[['title_i', 'raise_per_school_years', 'highest_degree_masters',
-                                      'highest_degree_bachelors', 'district_type_district', 'district_type_charter'
-                                      ]]
+    features_included = retention_df[feature_list]
 
     y = retention_df['present_next_year']
 
